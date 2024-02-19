@@ -12,7 +12,7 @@ object Versions {
     const val hilt = "2.48"
     const val hiltAndroidCompiler = "2.48"
     const val hiltCompiler = "1.1.0"
-//    const val hiltNavigationCompose = "1.1.0"
+    const val hiltNavigationCompose = "1.1.0"
 //    const val retrofit = "2.9.0"
 //    const val gsonConverter = "2.9.0"
 //    const val moshiConverter = "2.9.0"

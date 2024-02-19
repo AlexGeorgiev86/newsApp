@@ -62,7 +62,7 @@ dependencies {
     implementation(Dependencies.composeMaterial3)
 //    implementation(Dependencies.navigationCompose)
 //    implementation(Dependencies.lifecycleViewModelKtx)
-//    implementation(Dependencies.hiltNavigationCompose)
+    implementation(Dependencies.hiltNavigationCompose)
 //    androidTestImplementation(Dependencies.composeBom)
 //    androidTestImplementation(Dependencies.composeTestJUnit4)
 //    debugImplementation(Dependencies.composeUiTooling)
