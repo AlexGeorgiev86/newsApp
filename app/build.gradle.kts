@@ -75,6 +75,9 @@ dependencies {
     implementation(Dependencies.okhttp)
     implementation(Dependencies.loggingInterceptor)
 
+    implementation(Dependencies.coroutinesCore)
+    implementation(Dependencies.coroutinesAndroid)
+
     implementation(project(Modules.utilities))
 
     implementation(Dependencies.hiltAndroid)
