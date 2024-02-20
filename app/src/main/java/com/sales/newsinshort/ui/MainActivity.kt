@@ -1,4 +1,4 @@
-package com.sales.newsinshort
+package com.sales.newsinshort.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

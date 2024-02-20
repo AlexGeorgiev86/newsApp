@@ -22,12 +22,12 @@ object Dependencies {
 
     val hiltNavigationCompose by lazy { "androidx.hilt:hilt-navigation-compose:${Versions.hiltNavigationCompose}" }
 
-//    val retrofit by lazy { "com.squareup.retrofit2:retrofit:${Versions.retrofit}" }
-//    val gsonConverter by lazy { "com.squareup.retrofit2:converter-gson:${Versions.gsonConverter}" }
-//    val moshiConverter by lazy { "com.squareup.retrofit2:converter-moshi:${Versions.moshiConverter}" }
-//    val moshi by lazy { "com.squareup.moshi:moshi-kotlin:${Versions.moshi}" }
-//    val okhttp by lazy { "com.squareup.okhttp3:okhttp:${Versions.okhttp}" }
-//    val loggingInterceptor by lazy { "com.squareup.okhttp3:logging-interceptor:${Versions.loggingInterceptor}" }
+    val retrofit by lazy { "com.squareup.retrofit2:retrofit:${Versions.retrofit}" }
+    val gsonConverter by lazy { "com.squareup.retrofit2:converter-gson:${Versions.gsonConverter}" }
+    val moshiConverter by lazy { "com.squareup.retrofit2:converter-moshi:${Versions.moshiConverter}" }
+    val moshi by lazy { "com.squareup.moshi:moshi-kotlin:${Versions.moshi}" }
+    val okhttp by lazy { "com.squareup.okhttp3:okhttp:${Versions.okhttp}" }
+    val loggingInterceptor by lazy { "com.squareup.okhttp3:logging-interceptor:${Versions.loggingInterceptor}" }
 }
 
 object Modules {
